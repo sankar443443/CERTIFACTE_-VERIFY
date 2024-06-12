@@ -1,0 +1,146 @@
+.addbtn{
+  height: 40px;
+  width: 350px;
+  /* background: linear-gradient(25deg,orange,white); */
+  background-color: orange;
+  font-size: 20px;
+  color: white;
+  border-radius: 15px;
+  border-color:white;
+  letter-spacing: 5px;
+  margin-top: 15px;
+}
+
+.popup{
+    border: 3px solid black;
+    height: 400px;
+    width: 400px;
+    margin-left: 400px;
+    margin-top: 30px;
+    border-radius:15px ;
+    background-color: #fff;
+}
+
+.addhead{
+  position: relative;
+  letter-spacing: 5px;
+  color:white;
+  background-color: black;
+  border-bottom: 3px solid black;
+  height: 40px;
+}
+
+.certifi{
+position: relative;
+margin-top: 10px;
+font-style: italic;
+letter-spacing: 4px;
+}
+
+.prime{
+  position: relative;
+  top: 20px;
+  right: 30px;
+  height: 35px;
+  width: 100px;
+  color: white;
+  letter-spacing: 2px;
+  border-radius: 8px;
+  border-color: white;
+}
+
+.danger{
+  position: relative;
+  top: 20px;
+  left: 20px;
+  height: 35px;
+  border-radius: 8px;
+  width: 100px;
+  color: white;
+  background-color: rgb(211, 16, 16);
+  border-color: #fff;
+}
+   
+ #floatingPassword{
+  border: none;
+  border-bottom: 2px solid black;
+  width: 83%;
+  height: 100%;
+  
+ }
+
+ 
+ .form-floating{
+  margin-left: 20px;
+
+ }
+
+ .table{
+  margin-top: 20px;
+  margin-left: 50px;
+ }
+  
+#ttt{
+  width: 90%;
+  letter-spacing: 1px;
+}
+
+#footer1{
+  position: relative;
+  bottom : 35px;
+  width  : 100px;
+  right: 160px;
+}
+
+#footer2{
+  position: relative;
+  width: 80px;
+  height: 35px;
+  left: 60px;
+  background-color: black;
+}
+
+#footer3{
+  position: relative;
+  bottom: 33px;
+  /* top: 40px; */
+  right: 115px;
+  width: 100px;
+}
+
+#footer4{
+  position: relative;
+  width: 80px;
+  height: 35px;
+  left: 15px;
+  background-color: green;
+}
+
+#topfooter{
+  position: relative;
+  height: 150px;
+
+}
+
+.viewcer{
+  position: absolute;
+  border: 1px solid black;
+  height: 100%;
+  width: 100%;
+  
+
+}
+
+#editpen{
+  position: relative;
+ right: 30px;
+ background-color: red;
+ width: 80px;
+}
+
+.cerview{
+  position: relative;
+  top: 260px;
+  right: 100px;
+  /* width: 100px; */
+}
